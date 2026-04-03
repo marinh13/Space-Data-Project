@@ -20,5 +20,5 @@ Run each notebook to walk through the full processing pipeline for each event:
 
 The analysis uses the JPL mascons dataset at 0.25° resolution:
 
-- **Primary dataset:** `CSR_GRACE_GRACE-FO_RL06_Mascons_all-corrections.nc`
+- **Primary dataset:** `CSR_GRACE_GRACE-FO_RL06_Mascons_all-corrections.nc`, install from https://www2.csr.utexas.edu/grace/RL06_mascons.html
 - **Ocean mask:** `CSR_GRACE_GRACE-FO_RL06_Mascons_v02_OceanMask.nc` — can be used to mask the data to ocean regions only.
