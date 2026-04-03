@@ -15,3 +15,10 @@ Run each notebook to walk through the full processing pipeline for each event:
 4. Displaced water volume calculation
 
 > **Note:** The log-log plot code is located at the end of `Project_Maule_2010.ipynb`.
+
+### Dataset
+
+The analysis uses the JPL mascons dataset at 0.25° resolution:
+
+- **Primary dataset:** `CSR_GRACE_GRACE-FO_RL06_Mascons_all-corrections.nc`
+- **Ocean mask:** `CSR_GRACE_GRACE-FO_RL06_Mascons_v02_OceanMask.nc` — can be used to mask the data to ocean regions only.
